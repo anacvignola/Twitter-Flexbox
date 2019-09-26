@@ -1,8 +1,8 @@
 <h1 align="center">
     <img alt="Layout Twitter with Flexbox" src="/assets/images/logo.svg" />
     <br>
-    Full Stack Instagram Clone <br />
-    Node.js | ReactJS | React Native
+    Twitter Layout <br />
+    Flexbox
 </h1>
 
 <p align="center">
